@@ -14,11 +14,7 @@ import android.util.Log;
  */
 
 import android.annotation.SuppressLint;
-import android.app.Service;
-import android.content.Intent;
 import android.os.CountDownTimer;
-import android.os.IBinder;
-import android.util.Log;
 
 import java.util.concurrent.TimeUnit;
 
